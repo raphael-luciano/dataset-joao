@@ -10,7 +10,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 9,1,3,Recife,female,27,0,2,347742,111.333,,S
 10,1,2,Porto Alegre,female,14,1,0,237736,300.708,,C
 11,1,3,Belem,female,4,1,1,PP 9549,16.7,G6,S
-12,1,1,Goiânia,female,58,0,0,113783,26.55,C103,S
+12,1,1,Goiania,female,58,0,0,113783,26.55,C103,S
 13,0,3,Guarulhos,male,20,0,0,A/5. 2151,8.05,,S
 14,0,3,Campinas,male,39,1,5,347082,31.275,,S
 15,0,3,Sao Luis,female,14,0,0,350406,78.542,,S
@@ -28,7 +28,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 27,0,3,Jaboatao Dos Guararapes,male,,0,0,2631,7.225,,C
 28,0,1,Sao Jose Dos Campos,male,19,3,2,19950,263,C23 C25 C27,S
 29,1,3,Ribeirao Preto,female,,0,0,330959,78.792,,Q
-30,0,3,Uberlândia,male,,0,0,349216,78.958,,S
+30,0,3,Uberlandia,male,,0,0,349216,78.958,,S
 31,0,1,Contagem,male,40,0,0,PC 17601,277.208,,C
 32,1,1,Sorocaba,female,,1,0,PC 17569,1.465.208,B78,C
 33,1,3,Aracaju,female,,0,0,335677,7.75,,Q
@@ -42,7 +42,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 41,0,3,Belford Roxo,female,40,1,0,7546,9.475,,S
 42,0,2,Campos Dos Goytacazes,female,27,1,0,11668,21,,S
 43,0,3,Sao Joao de Meriti,male,,0,0,349253,78.958,,C
-44,1,2,Aparecida de Goiânia,female,3,1,2,SC/Paris 2123,415.792,,C
+44,1,2,Aparecida de Goiania,female,3,1,2,SC/Paris 2123,415.792,,C
 45,1,3,Caxias do Sul,female,19,0,0,330958,78.792,,Q
 46,0,3,Porto Velho,male,,0,0,S.C./A.4. 23567,8.05,,S
 47,0,3,Florianopolis,male,,1,0,370371,15.5,,Q
@@ -122,7 +122,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 121,0,2,Jacarei,male,21,2,0,S.O.C. 14879,73.5,,S
 122,0,3,Americana,male,,0,0,A4. 54510,8.05,,S
 123,0,2,Sao Jose,male,32.5,1,0,237736,300.708,,C
-124,1,2,Maracanaú,female,32.5,0,0,27267,13,E101,S
+124,1,2,Maracanau,female,32.5,0,0,27267,13,E101,S
 125,0,1,Araraquara,male,54,0,1,35281,772.875,D26,S
 126,1,3,Presidente Prudente,male,12,1,0,2651,112.417,,C
 127,0,3,Macae,male,,0,0,370372,7.75,,Q
@@ -137,8 +137,8 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 136,0,2,Dourados,male,23,0,0,SC/PARIS 2133,150.458,,C
 137,1,1,Alvorada,female,19,0,2,11752,262.833,D47,S
 138,0,1,Rondonopolis,male,37,1,0,113803,53.1,C123,S
-139,0,3,Hortolândia,male,16,0,0,7534,92.167,,S
-140,0,1,Criciúma,male,24,0,0,PC 17593,79.2,B86,C
+139,0,3,Hortolandia,male,16,0,0,7534,92.167,,S
+140,0,1,Criciuma,male,24,0,0,PC 17593,79.2,B86,C
 141,0,3,Cachoeiro de Itapemirim,female,,0,2,2678,152.458,,C
 142,1,3,Sobral,female,22,0,0,347081,7.75,,S
 143,1,3,Rio Claro,female,24,1,0,STON/O2. 3101279,15.85,,S
@@ -153,7 +153,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 152,1,1,Santa Barbara D'oeste,female,22,1,0,113776,66.6,C2,S
 153,0,3,Barra Mansa,male,55.5,0,0,A.5. 11206,8.05,,S
 154,0,3,Rio Verde,male,40.5,0,2,A/5. 851,14.5,,S
-155,0,3,Luziânia,male,,0,0,Fa 265302,73.125,,S
+155,0,3,Luziania,male,,0,0,Fa 265302,73.125,,S
 156,0,1,Castanhal,male,51,0,1,PC 17597,613.792,,C
 157,1,3,Angra Dos Reis,female,16,0,0,35851,77.333,,Q
 158,0,3,Mesquita,male,30,0,0,SOTON/OQ 392090,8.05,,S
@@ -196,7 +196,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 195,1,1,Teofilo Otoni,female,44,0,0,PC 17610,277.208,B4,C
 196,1,1,Valparaiso de Goias,female,58,0,0,PC 17569,1.465.208,B80,C
 197,0,3,Franco da Rocha,male,,0,0,368703,7.75,,Q
-198,0,3,Jaú,male,42,0,1,4579,84.042,,S
+198,0,3,Jau,male,42,0,1,4579,84.042,,S
 199,1,3,Sapucaia do Sul,female,,0,0,370370,7.75,,Q
 200,0,2,Pouso Alegre,female,24,0,0,248747,13,,S
 201,0,3,Vitoria de Santo Antao,male,28,0,0,345770,9.5,,S
@@ -248,7 +248,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 247,0,3,Paulo Afonso,female,25,0,0,347071,7.775,,S
 248,1,2,Jandira,female,24,0,2,250649,14.5,,S
 249,1,1,Marituba,male,37,1,1,11751,525.542,D35,S
-250,0,2,Balneario Camboriú,male,54,1,0,244252,26,,S
+250,0,2,Balneario Camboriu,male,54,1,0,244252,26,,S
 251,0,3,Tatui,male,,0,0,362316,7.25,,S
 252,0,3,Bento Goncalves,female,29,1,1,347054,104.625,G6,S
 253,0,1,Varzea Paulista,male,62,0,0,113514,26.55,C87,S
@@ -263,7 +263,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 262,1,3,Vespasiano,male,3,4,2,347077,313.875,,S
 263,0,1,Trindade,male,52,1,1,110413,79.65,E67,S
 264,0,1,Arapongas,male,40,0,0,112059,0,B94,S
-265,0,3,Acailândia,female,,0,0,382649,7.75,,Q
+265,0,3,Acailandia,female,,0,0,382649,7.75,,Q
 266,0,2,Corumba,male,36,0,0,C.A. 17248,10.5,,S
 267,0,3,Coronel Fabriciano,male,16,4,1,3101295,396.875,,S
 268,1,3,Almirante Tamandare,male,25,1,0,347083,7.775,,S
@@ -325,7 +325,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 324,1,2,Catalao,female,22,1,1,248738,29,,S
 325,0,3,Caieiras,male,,8,2,CA. 2343,69.55,,S
 326,1,1,Moji-mirim,female,36,0,0,PC 17760,1.356.333,C32,C
-327,0,3,Itaúna,male,61,0,0,345364,62.375,,S
+327,0,3,Itauna,male,61,0,0,345364,62.375,,S
 328,1,2,Caratinga,female,36,0,0,28551,13,D,S
 329,1,3,Manacapuru,female,31,1,1,363291,20.525,,S
 330,1,1,Cacapava,female,16,0,1,111361,579.792,B18,C
@@ -357,7 +357,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 356,0,3,Ipojuca,male,28,0,0,345783,9.5,,S
 357,1,1,Quixada,female,22,0,1,113505,55,E33,S
 358,0,2,Manhuacu,female,38,0,0,237671,13,,S
-359,1,3,Tailândia,female,,0,0,330931,78.792,,Q
+359,1,3,Tailandia,female,,0,0,330931,78.792,,Q
 360,1,3,Jacobina,female,,0,0,330980,78.792,,Q
 361,0,3,Serra Talhada,male,40,1,4,347088,27.9,,S
 362,0,2,Francisco Beltrao,male,29,1,0,SC/PARIS 2167,277.208,,C
@@ -381,7 +381,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 380,0,3,Serrinha,male,19,0,0,347069,7.775,,S
 381,1,1,Gurupi,female,42,0,0,PC 17757,227.525,,C
 382,1,3,Gravata,female,1,0,2,2653,157.417,,C
-383,0,3,Santo Ângelo,male,32,0,0,STON/O 2. 3101293,7.925,,S
+383,0,3,Santo angelo,male,32,0,0,STON/O 2. 3101293,7.925,,S
 384,1,1,Vilhena,female,35,1,0,113789,52,,S
 385,0,3,Coari,male,,0,0,349227,78.958,,S
 386,0,2,Goiana,male,18,0,0,S.O.C. 14879,73.5,,S
@@ -403,7 +403,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 402,0,3,Joao Monlevade,male,26,0,0,341826,8.05,,S
 403,0,3,Picos,female,21,1,0,4137,9.825,,S
 404,0,3,Chapadinha,male,28,1,0,STON/O2. 3101279,15.85,,S
-405,0,3,Crateús,female,20,0,0,315096,86.625,,S
+405,0,3,Crateus,female,20,0,0,315096,86.625,,S
 406,0,2,Tres Coracoes,male,34,1,0,28664,21,,S
 407,0,3,Aquiraz,male,51,0,0,347064,7.75,,S
 408,1,2,Belo Jardim,male,3,1,1,29106,18.75,,S
@@ -415,7 +415,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 414,0,2,Jaboticabal,male,,0,0,239853,0,,S
 415,1,3,Lajeado,male,44,0,0,STON/O 2. 3101269,7.925,,S
 416,0,3,Lins,female,,0,0,343095,8.05,,S
-417,1,2,Ibiúna,female,34,1,1,28220,32.5,,S
+417,1,2,Ibiuna,female,34,1,1,28220,32.5,,S
 418,1,2,Cacador,female,18,0,2,250652,13,,S
 419,0,2,Caldas Novas,male,30,0,0,28228,13,,S
 420,0,3,Palmeira Dos indios,female,10,0,2,345773,24.15,,S
@@ -437,14 +437,14 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 436,1,1,Itapetinga,female,14,1,2,113760,120,B96 B98,S
 437,0,3,Ceara-mirim,female,21,2,2,W./C. 6608,34.375,,S
 438,1,2,Castro,female,24,2,3,29106,18.75,,S
-439,0,1,Janaúba,male,64,1,4,19950,263,C23 C25 C27,S
+439,0,1,Janauba,male,64,1,4,19950,263,C23 C25 C27,S
 440,0,2,Campo Formoso,male,31,0,0,C.A. 18723,10.5,,S
 441,1,2,Sorriso,female,45,1,1,F.C.C. 13529,26.25,,S
 442,0,3,Dias D'avila,male,20,0,0,345769,9.5,,S
 443,0,3,Mococa,male,25,1,0,347076,7.775,,S
 444,1,2,Irece,female,28,0,0,230434,13,,S
 445,1,3,Cascavel,male,,0,0,65306,81.125,,S
-446,1,1,Venâncio Aires,male,4,0,2,33638,818.583,A34,S
+446,1,1,Venancio Aires,male,4,0,2,33638,818.583,A34,S
 447,1,2,Amparo,female,13,0,1,250644,19.5,,S
 448,1,1,Sousa,male,34,0,0,113794,26.55,,S
 449,1,3,Januaria,female,5,2,1,2666,192.583,,C
@@ -456,7 +456,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 455,0,3,Casa Nova,male,,0,0,A/5 2817,8.05,,S
 456,1,3,Fernandopolis,male,29,0,0,349240,78.958,,C
 457,0,1,Brumado,male,65,0,0,13509,26.55,E38,S
-458,1,1,Estância,female,,1,0,17464,518.625,D21,S
+458,1,1,Estancia,female,,1,0,17464,518.625,D21,S
 459,1,2,Ouricuri,female,50,0,0,F.C.C. 13531,10.5,,S
 460,0,3,Cajamar,male,,0,0,371060,7.75,,Q
 461,1,1,Capanema,male,48,0,0,19952,26.55,E12,S
@@ -473,10 +473,10 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 472,0,3,Embu-guacu,male,38,0,0,315089,86.625,,S
 473,1,2,Camaqua,female,33,1,2,C.A. 34651,27.75,,S
 474,1,2,Caico,female,23,0,0,SC/AH Basle 541,137.917,D,C
-475,0,3,Camboriú,female,22,0,0,7553,98.375,,S
+475,0,3,Camboriu,female,22,0,0,7553,98.375,,S
 476,0,1,Uniao Dos Palmares,male,,0,0,110465,52,A14,S
 477,0,2,Itapecuru Mirim,male,34,1,0,31027,21,,S
-478,0,3,Grajaú,male,29,1,0,3460,70.458,,S
+478,0,3,Grajau,male,29,1,0,3460,70.458,,S
 479,0,3,Morada Nova,male,22,0,0,350060,75.208,,S
 480,1,3,Novo Repartimento,female,2,0,1,3101298,122.875,,S
 481,0,3,Conceicao do Coite,male,9,5,2,CA 2144,46.9,,S
@@ -516,10 +516,10 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 515,0,3,Igarape-miri,male,24,0,0,349209,74.958,,S
 516,0,1,Gaspar,male,47,0,0,36967,340.208,D46,S
 517,1,2,Cabedelo,female,34,0,0,C.A. 34260,10.5,F33,S
-518,0,3,Rolândia,male,,0,0,371110,24.15,,Q
+518,0,3,Rolandia,male,,0,0,371110,24.15,,Q
 519,1,2,Santo Amaro,female,36,1,0,226875,26,,S
 520,0,3,Floriano,male,32,0,0,349242,78.958,,S
-521,1,1,Acaraú,female,30,0,0,12749,93.5,B73,S
+521,1,1,Acarau,female,30,0,0,12749,93.5,B73,S
 522,0,3,Ponte Nova,male,22,0,0,349252,78.958,,S
 523,0,3,Viseu,male,,0,0,2624,7.225,,C
 524,1,1,Moreno,female,44,0,1,111361,579.792,B18,C
@@ -551,7 +551,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 550,1,2,Taquaritinga,male,8,1,1,C.A. 33112,36.75,,S
 551,1,1,Tres Pontas,male,17,0,2,17421,1.108.833,C70,C
 552,0,2,Sao Francisco,male,27,0,0,244358,26,,S
-553,0,3,Timbaúba,male,,0,0,330979,78.292,,Q
+553,0,3,Timbauba,male,,0,0,330979,78.292,,Q
 554,1,3,Mirassol,male,22,0,0,2620,7.225,,C
 555,1,3,Acara,female,22,0,0,347085,7.775,,S
 556,0,1,Frutal,male,62,0,0,113807,26.55,,S
@@ -637,14 +637,14 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 636,1,2,Videira,female,28,0,0,237668,13,,S
 637,0,3,Paracambi,male,32,0,0,STON/O 2. 3101292,7.925,,S
 638,0,2,Juruti,male,31,1,1,C.A. 31921,26.25,,S
-639,0,3,Macaúbas,female,41,0,5,3101295,396.875,,S
+639,0,3,Macaubas,female,41,0,5,3101295,396.875,,S
 640,0,3,Manicore,male,,1,0,376564,16.1,,S
 641,0,3,Jales,male,20,0,0,350050,78.542,,S
 642,1,1,Rondon do Para,female,24,0,0,PC 17477,69.3,B35,C
 643,0,3,Cornelio Procopio,female,2,3,2,347088,27.9,,S
-644,1,3,Marechal Cândido Rondon,male,,0,0,1601,564.958,,S
+644,1,3,Marechal Candido Rondon,male,,0,0,1601,564.958,,S
 645,1,3,Coelho Neto,female,0.75,2,1,2666,192.583,,C
-646,1,1,Bocaiúva,male,48,1,0,PC 17572,767.292,D33,C
+646,1,1,Bocaiuva,male,48,1,0,PC 17572,767.292,D33,C
 647,0,3,Monte Alto,male,19,0,0,349231,78.958,,S
 648,1,1,Cristalina,male,56,0,0,13213,35.5,A26,C
 649,0,3,Sao Joaquim da Barra,male,,0,0,S.O./P.P. 751,7.55,,S
@@ -681,9 +681,9 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 680,1,1,Pocoes,male,36,0,1,PC 17755,5.123.292,B51 B53 B55,C
 681,0,3,Ribeirao,female,,0,0,330935,81.375,,Q
 682,1,1,Paraiso do Tocantins,male,27,0,0,PC 17572,767.292,D49,C
-683,0,3,Ipiaú,male,20,0,0,6563,9.225,,S
+683,0,3,Ipiau,male,20,0,0,6563,9.225,,S
 684,0,3,Atalaia,male,14,5,2,CA 2144,46.9,,S
-685,0,2,Jaguariúna,male,60,1,1,29750,39,,S
+685,0,2,Jaguariuna,male,60,1,1,29750,39,,S
 686,0,2,Mauriti,male,25,1,2,SC/Paris 2123,415.792,,C
 687,0,3,Humaita,male,14,4,1,3101295,396.875,,S
 688,0,3,Sao Benedito,male,19,0,0,349228,101.708,,S
@@ -707,15 +707,15 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 706,0,2,Mombaca,male,39,0,0,250655,26,,S
 707,1,2,Uniao,female,45,0,0,223596,13.5,,S
 708,1,1,Currais Novos,male,42,0,0,PC 17476,262.875,E24,S
-709,1,1,Estância Velha,female,22,0,0,113781,151.55,,S
+709,1,1,Estancia Velha,female,22,0,0,113781,151.55,,S
 710,1,3,Sao Francisco do Sul,male,,1,1,2661,152.458,,C
 711,1,1,Araioses,female,24,0,0,PC 17482,495.042,C90,C
-712,0,1,Niquelândia,male,,0,0,113028,26.55,C124,S
+712,0,1,Niquelandia,male,,0,0,113028,26.55,C124,S
 713,1,1,Porangatu,male,48,1,0,19996,52,C126,S
 714,0,3,Mamanguape,male,29,0,0,7545,94.833,,S
 715,0,2,Paraguacu Paulista,male,52,0,0,250647,13,,S
 716,0,3,Sao Sebastiao do Passe,male,19,0,0,348124,7.65,F G73,S
-717,1,1,Sidrolândia,female,38,0,0,PC 17757,227.525,C45,C
+717,1,1,Sidrolandia,female,38,0,0,PC 17757,227.525,C45,C
 718,1,2,Capao da Canoa,female,27,0,0,34218,10.5,E101,S
 719,0,3,Espirito Santo do Pinhal,male,,0,0,36568,15.5,,Q
 720,0,3,Pedra Branca,male,33,0,0,347062,7.775,,S
@@ -724,7 +724,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 723,0,2,Seabra,male,34,0,0,12233,13,,S
 724,0,2,Sao Lourenco,male,50,0,0,250643,13,,S
 725,1,1,Guajara-mirim,male,27,1,0,113806,53.1,E8,S
-726,0,3,Cabreúva,male,20,0,0,315094,86.625,,S
+726,0,3,Cabreuva,male,20,0,0,315094,86.625,,S
 727,1,2,Tramandai,female,30,3,0,31027,21,,S
 728,1,3,Pedreira,female,,0,0,36866,77.375,,Q
 729,0,2,Pederneiras,male,25,1,0,236853,26,,S
@@ -762,7 +762,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 761,0,3,Laranjal do Jari,male,,0,0,358585,14.5,,S
 762,0,3,Entre Rios,male,41,0,0,SOTON/O2 3101272,7.125,,S
 763,1,3,Rio Negrinho,male,20,0,0,2663,72.292,,C
-764,1,1,Orlândia,female,36,1,2,113760,120,B96 B98,S
+764,1,1,Orlandia,female,36,1,2,113760,120,B96 B98,S
 765,0,3,Sao Jose de Mipibu,male,16,0,0,347074,7.775,,S
 766,1,1,Rosario do Sul,female,51,1,0,13502,779.583,D11,S
 767,0,1,Santo Antonio da Patrulha,male,,0,0,112379,39.6,,C
@@ -846,7 +846,7 @@ PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 845,0,3,Inhambupe,male,17,0,0,315090,86.625,,S
 846,0,3,Sao Miguel do Oeste,male,42,0,0,C.A. 5547,7.55,,S
 847,0,3,Dois Vizinhos,male,,8,2,CA. 2343,69.55,,S
-848,0,3,Itiúba,male,35,0,0,349213,78.958,,C
+848,0,3,Itiuba,male,35,0,0,349213,78.958,,C
 849,0,2,Mucuri,male,28,0,1,248727,33,,S
 850,1,1,Aracuai,female,,1,0,17453,891.042,C92,C
 851,0,3,Paicandu,male,4,4,2,347082,31.275,,S
